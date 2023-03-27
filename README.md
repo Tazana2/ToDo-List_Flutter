@@ -18,12 +18,11 @@
 </a>
 
 <br>
+<br>
 
 **Juankyyy** | **Tazana2** |
  --- | --- |
  [Github](https://github.com/juankyyy) | [Github](https://github.com/Tazana2) |
  [LinkedIn](https://www.linkedin.com/in/juan-camilo-herrera-65582526b/) | [LinkedIn](https://www.linkedin.com/in/daniel-santana-meza-199351268/) |
  [Twitter](https://twitter.com/Juankyyy_) | [Twitter](https://twitter.com/Daniel270639?s=20) |
-
- #
 
