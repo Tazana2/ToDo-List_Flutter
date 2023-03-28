@@ -43,7 +43,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Rafa_List | By: Juanky y Dani'),
+        title: const Text('Rafa_Tasks | By: Juanky y Dani'),
         actions: [
           Padding(
             padding: const EdgeInsets.all(16.0),
@@ -51,7 +51,7 @@ class _HomePageState extends State<HomePage> {
               onTap: () {
                 showAboutDialog(
                   context: context,
-                  applicationName: 'Rafa List',
+                  applicationName: 'Rafa_Tasks',
                   applicationVersion: '0.0.2',
                   applicationIcon: const Icon(Icons.pets_rounded),
                   children: <Widget>[
