@@ -11,18 +11,23 @@
 
 ## Desarrolladores ✒️ 
 
-<br>
-
-<a href="https://github.com/Tazana2/ToDo-List_Flutter/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Tazana2/ToDo-List_Flutter" />
-</a>
 
 <br>
-<br>
+<div style="display: flex; width: 12rem; justify-content: space-between;">
+  <a href="https://github.com/Tazana2/ToDo-List_Flutter/graphs/contributors">
+    <img src="https://github.com/Juankyyy.png?size=70" style="border-radius: 50%;"/>
+  </a>
+  
+  <a href="https://github.com/Tazana2/ToDo-List_Flutter/graphs/contributors">
+    <img src="https://github.com/Tazana2.png?size=70" style="border-radius: 50%;"/>
+  </a>
 
-**Juankyyy** | **Tazana2** |
- --- | --- |
- [Github](https://github.com/juankyyy) | [Github](https://github.com/Tazana2) |
- [LinkedIn](https://www.linkedin.com/in/juan-camilo-herrera-65582526b/) | [LinkedIn](https://www.linkedin.com/in/daniel-santana-meza-199351268/) |
- [Twitter](https://twitter.com/Juankyyy_) | [Twitter](https://twitter.com/Daniel270639?s=20) |
+</div>
+
+
+| **Juankyyy** | **Tazana2** |
+| --- | --- |
+| [Github](https://github.com/juankyyy) | [Github](https://github.com/Tazana2) |
+| [LinkedIn](https://www.linkedin.com/in/juan-camilo-herrera-65582526b/) | [LinkedIn](https://www.linkedin.com/in/daniel-santana-meza-199351268/) |
+| [Twitter](https://twitter.com/Juankyyy_) | [Twitter](https://twitter.com/Daniel270639?s=20) |
 
